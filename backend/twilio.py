@@ -1,4 +1,3 @@
-<html>
 import os
 from twilio.rest import Client
 
@@ -41,4 +40,3 @@ print(message.sid)
   "to": "+15558675310",
   "uri": "/2010-04-01/Accounts/ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/Messages/SMXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.json"
 }
-</html>
