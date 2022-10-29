@@ -1,0 +1,139 @@
+<html>
+/* Rectangle 1 */
+position: absolute;
+width: 1512px;
+height: 982px;
+left: 0px;
+top: 0px;
+
+background: #1FD552;
+
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 1512px;
+height: 62px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* spyvpn.tech/vpn/404 */
+
+
+position: absolute;
+width: 1512px;
+height: 62px;
+left: 0px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+
+/* Status: Times UP */
+
+
+position: absolute;
+width: 464px;
+height: 88px;
+left: 14px;
+top: 72px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Play again??? */
+
+
+position: absolute;
+width: 464px;
+height: 88px;
+left: 524px;
+top: 816px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* SORRY! GAME OVER. HACKER GOT ALL YOUR COMPANIES INFO. */
+
+
+position: absolute;
+width: 1442px;
+height: 195px;
+left: 70px;
+top: 179px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+
+
+
+/* image 10 */
+
+
+position: absolute;
+width: 948px;
+height: 509px;
+left: 216px;
+top: 263px;
+
+background: url(image.png);
+
+
+/* Rectangle 40 */
+
+
+position: absolute;
+width: 372px;
+height: 64px;
+left: 486px;
+top: 892px;
+
+background: #D9D9D9;
+
+
+/* SURE! */
+
+
+position: absolute;
+width: 178px;
+height: 40px;
+left: 546px;
+top: 904px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
